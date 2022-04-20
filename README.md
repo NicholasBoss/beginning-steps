@@ -7,8 +7,11 @@ Using different languages to say "Hello World." Using this repository to help se
 # Development Environment
 
 C++ 
+
 Python
+
 Visual Studio & Visual Studio code
+
 Git/Git Hub
 
 # Useful Websites
